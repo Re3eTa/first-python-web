@@ -14,7 +14,7 @@ with st.container():
   with left_column:
     st.header("More about me")
     st.write("##")
-    st.write("
+    st.write(
       """
       - Im currently 20 years old, 21 in december! Im studying semi-full time at victoria university of wellington
         and I have been living in wellington for the past 20 years.
