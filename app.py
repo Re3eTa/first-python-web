@@ -1,6 +1,6 @@
 import streamlit as st
 #sets up website
-st.set_page_config(title="Fynn's website", icon=":wave:", layout="wide")
+st.set_page_config(page_title="Fynn's website", page_icon=":wave:", layout="wide")
 #contents
 st.subheader("Hi!, I am Fynn! :wave:")
 st.title("A fresh student majoring in the electronics and computer systems.")
